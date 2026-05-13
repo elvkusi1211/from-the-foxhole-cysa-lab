@@ -82,7 +82,7 @@ This is primarily a teaching resource, but PRs are welcome for:
 
 ## About
 
-Built by El, a US Navy veteran and cloud engineer. The series is independent and not affiliated with CompTIA, Wazuh, Proxmox, or any other product mentioned.
+Built by Elvis, a US Navy veteran and cloud engineer. The series is independent and not affiliated with CompTIA, Wazuh, Proxmox, or any other product mentioned.
 
 ## License
 
